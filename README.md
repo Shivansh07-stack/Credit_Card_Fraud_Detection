@@ -420,5 +420,3 @@ For even better performance:
 > is far more valuable than a 98% accurate model that catches nothing."**
 
 ---
-
-Good luck with your data science journey! 🚀
